@@ -43,7 +43,7 @@ d: false                 # development mode turns on debug mode, source maps, an
 colors: true             # use colors in displaying webpack output, default: true
 progress: true           # display a progress bar for long compiles, default: true
 config: 'path_to_config' # define an alternate config file
-mode: 'production'       # set up optimizations accordingly. More information on the [webpack docs](https://webpack.js.org/configuration/mode/). default: production
+mode: 'production'       # set up optimizations accordingly. More information on the webpack docs: https://webpack.js.org/configuration/mode/. default: production
 ```
 
 ## Notes on Guard 1.x
